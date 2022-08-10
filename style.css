@@ -8,10 +8,10 @@
     background-color: #FFEDD5; /* hex: 0-F */
     font-family: 'Cedarville Cursive', cursive;
     background-image:url(https://raw.githubusercontent.com/devThiagoL/rocketseat-maratona-explorer3.0/main/pngwing2.com.png);
-    background-size: contain;
+    background-size: 450px 650px;
     background-repeat: no-repeat; 
-    background-position: sticky;
-    background-attachment: local;       
+    background-position: center;
+    background-attachment: fixed;       
     height:100%;
     width:100%;
   }
