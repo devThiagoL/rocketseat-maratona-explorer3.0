@@ -11,7 +11,7 @@
     background-size: 450px;
     background-repeat: repeat-y;
     background-position: center;
-    background-attachment: fixed;
+    background-attachment: local;
   }
   
   ul {
