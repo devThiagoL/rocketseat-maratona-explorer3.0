@@ -11,7 +11,7 @@
     background-size: 550px;
     background-repeat: no-repeat; 
     background-position: center;
-    background-attachment: scroll;       
+    background-attachment: local;       
     -webkit-background-size: 550px;
     -moz-background-size: 550px;
     -o-background-size: 550px;
