@@ -10,7 +10,7 @@
     background-image:url(https://raw.githubusercontent.com/devThiagoL/rocketseat-maratona-explorer3.0/main/pngwing2.com.png);
     background-size: contain;
     background-repeat: no-repeat; 
-    background-position: relative;
+    background-position: fixed;
     background-attachment: local;       
     height:100%;
     width:100%;
