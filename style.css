@@ -9,9 +9,15 @@
     font-family: 'Cedarville Cursive', cursive;
     background-image:url(https://raw.githubusercontent.com/devThiagoL/rocketseat-maratona-explorer3.0/main/pngwing2.com.png);
     background-size: 450px;
-    background-repeat: repeat-y;
+    background-repeat: no-repeat; 
     background-position: center;
-    background-attachment: local;
+    background-attachment: fixed;       
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    /*background-size: cover;*/
+    height:100%;
+    width:100%;
   }
   
   ul {
