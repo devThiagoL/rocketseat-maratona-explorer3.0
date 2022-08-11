@@ -7,8 +7,8 @@
 body {
   background-color: #f1e5d8; /* hex: 0-F */
   font-family: 'Dancing Script', cursive;
-  background-image:url(https://raw.githubusercontent.com/devThiagoL/rocketseat-maratona-explorer3.0/main/pngwing2.com.png);
-  background-size: 450px 800px;
+  background-image:url(https://raw.githubusercontent.com/devThiagoL/rocketseat-maratona-explorer3.0/main/pngwing.com3.png);
+  background-size: 430px 850px;
   background-repeat: no-repeat; 
   background-position: center;
   background-attachment: fixed;       
@@ -22,13 +22,13 @@ ul {
 
 /* FONTS */
 h1 {
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Great Vibes', cursive;
   color: #2D2C2A;
   
 }
 
 h2 {
-  font-family: 'Aboreto', cursive;
+  font-family: 'Ubuntu Condensed', sans-serif;
   text-transform: uppercase;
   color: #9c7e19;
 }
@@ -47,12 +47,12 @@ section {
 
 header h1 {
   margin-bottom: 4px;
-  font-size: 60px;
+  font-size: 75px;
   line-height: 33px;
 }
 
 header h1 span {
-  color: #e0a912;
+  color: #800000;
 }
 
 header p {
@@ -87,14 +87,16 @@ li .details {
 }
 
 .details h3 {
+  font-family: 'Ubuntu Condensed', sans-serif;
   margin-bottom: 8px;
   font-size: 20px;
   line-height: 19px;
 }
 
-.details h3 em{
+.details h3 em {
+  font-family: 'Ubuntu Condensed', sans-serif;
   margin-bottom: 8px;
-  font-size: 24px;
+  font-size: 80px;
   line-height: 19px;
 }
 
@@ -102,4 +104,11 @@ li .details {
   color: rgba(0, 0, 0, 0.6);
   font-size: 20px;
   line-height: 21px;
+}
+
+li .site {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  line-height: 19px;
 }
