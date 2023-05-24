@@ -7,4 +7,4 @@ https://app.netlify.com/
 
 https://qr.io/
 
-teste
+teste pipo
